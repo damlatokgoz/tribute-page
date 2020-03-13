@@ -1,0 +1,35 @@
+body
+{
+  text-align:center;
+    background-color:gray;
+}
+h1{
+  font-family:sans-serif;
+  font-size:60px;
+  
+}
+h2{
+  color: #8B0000;
+}
+p{
+  font-family:comic-sans;
+}
+
+#image{
+  height: 400px;
+  max-width: 400px;
+  height:auto;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+#img-caption{
+  font-family:monospace;
+}
+
+#tribute-link{
+  font-size:20px;
+  font-family:monospace;
+}
